@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nguyen Thanh Luong"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "MSc of One Health"
   location         : "Hanoi, Vietnam"
   employer         :

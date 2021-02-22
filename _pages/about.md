@@ -12,6 +12,6 @@ Currently, I am a MSc student in One Health at ULiege (Belgium). My research int
 
 Feel free to contact me if you need help in statistics for your academic or work related projects.
 
-In my spare time I like to play sports, learn to code and write about statistics and its applications in R through my blog. I also enjoy reading nonfiction books on statistics, (behavioral) economics, business/management/investing/personal finance or psychology and traveling around the globe.
+In my spare time I like to play sports, learn to code and write about statistics and its applications in R through my blog. I also enjoy reading nonfiction books on statistics.
 
 Do not hesitate to contact me if you have any questions or inquiries.
